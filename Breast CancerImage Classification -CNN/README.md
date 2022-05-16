@@ -1,6 +1,4 @@
-# Deep-Learning
-
-Breast Cancer Classification
+# Breast Cancer Image Classification using CNN
 
 In this project, I intend to apply Deep Learning techniques on a multi-class classification task which identifies the cancer type based on the images obtained for analysis. The dataset used for our project is the BreakHis dataset which is a breast cancer histopathology image database. It contains around 9,100 microscopic images of different types of breast cancer tissues. Classification of breast cancer images can help doctors to give more detailed treatment for saving people’s lives in the world and reduce death rates of breast cancer. These influences not only improve scientific techniques in tumor recognition area but also bring social benefits to everyone.  
 
